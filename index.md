@@ -21,9 +21,9 @@ Such a tutorial would also serve as background for attendees of the TAR workshop
 **[Eugene Yang](https://www.eugene.zone/)**
 is a Research Associate at Human Language Technology Center of Excellence at Johns Hopkins University. He has been developing state-of-the-art approaches for Technology-assisted reviews. His Ph.D. dissertation focuses on the cost reduction and analysis for TAR, including cost modeling and stopping rules for one and two phase workflows. He is currently working on cross-lingual human-in-the-loop retrieval approaches.
 
-**Jeremy Pickens**
+**[Jeremy Pickens](https://www.linkedin.com/in/jeremy-pickens-4b81bb5/)**
 is a pioneer in the field of collaborative exploratory search, a form of information seeking in which a group of people who share a common information need actively collaborate to achieve it. As Principal Data Scientist at OpenText, he has spearheaded the development of Insight Predict. His ongoing research and development focuses on methods for continuous learning, and the variety of real world technology assisted review workflows that are only possible with this approach. Dr. Pickens earned his doctoral degree at the University of Massachusetts, Amherst, Center for Intelligent Information Retrieval. Before joining Catalyst Repository Systems and later OpenText, he spent five years as a research scientist at FX Palo Alto Lab, Inc. 
 
-**David D. Lewis**
+**[David D. Lewis](http://www.daviddlewis.com/)**
 is Executive Vice President for AI Research, Development, and Ethics at Reveal-Brainspace. He has researched, designed, and consulted on human-in-the-loop document classification and review systems since the early 1990's. His 1994 paper with Gale introduced uncertainty sampling, a core technique used in commercial TAR systems. This paper won an ACM SIGIR Test of Time Award in 2017.  Dave co-founded the TREC Legal Track, the first open evaluation of TAR technology. He was elected a Fellow of the American Association for the Advancement of Science in 2006 for foundational work on algorithms, data sets, and evaluation in text analytics.  
 
