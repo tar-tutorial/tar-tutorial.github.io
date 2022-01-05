@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+---
+layout: default
+title: Overview
+nav_order: 1
+---
 
-You can use the [editor on GitHub](https://github.com/tar-tutorial/tar-tutorial.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# ECIR 2022 Tutorial: Technology-Assisted Review for High Recall Retrieval
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+{:.mt-6}
+Human-in-the-loop (HITL) IR workflows are being applied to an increasing range of tasks in the law, medicine, social media, and other areas.  These tasks differ from ad hoc retrieval in their focus on high recall, and differ from text categorization in their need for extensive human judgment. These tasks also differ from both in their industrial scale and, often, their use of teams of multiple reviewers. In the research literature, these tasks have been variously referred to as *review*, *moderation*, *annotation*, or *high recall retrieval* ( *HRR* ) tasks. Technologies applied to these tasks have also been referred to by many names, but *technology-assisted review* ( *TAR* ) has emerged as a consensus term, so these tasks are also referred to as *TAR tasks*. 
 
-### Markdown
+The growth in the deployment of TAR systems, combined with the many open research problems in this area, suggest this is an appropriate time for a TAR tutorial at a major IR conference.
+Such a tutorial would also serve as background for attendees of the TAR workshop that has been approved for ECIR 2022. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Length: Half day.
+- Target audience: Intermediate. 
+- Expected prerequisite knowledge:  Some exposure to basics of information retrieval and machine learning. 
 
-```markdown
-Syntax highlighted code block
+## Presenters
 
-# Header 1
-## Header 2
-### Header 3
+**[Eugene Yang](https://www.eugene.zone/)**
+is a Research Associate at Human Language Technology Center of Excellence at Johns Hopkins University. He has been developing state-of-the-art approaches for Technology-assisted reviews. His Ph.D. dissertation focuses on the cost reduction and analysis for TAR, including cost modeling and stopping rules for one and two phase workflows. He is currently working on cross-lingual human-in-the-loop retrieval approaches.
 
-- Bulleted
-- List
+**Jeremy Pickens**
+is a pioneer in the field of collaborative exploratory search, a form of information seeking in which a group of people who share a common information need actively collaborate to achieve it. As Principal Data Scientist at OpenText, he has spearheaded the development of Insight Predict. His ongoing research and development focuses on methods for continuous learning, and the variety of real world technology assisted review workflows that are only possible with this approach. Dr. Pickens earned his doctoral degree at the University of Massachusetts, Amherst, Center for Intelligent Information Retrieval. Before joining Catalyst Repository Systems and later OpenText, he spent five years as a research scientist at FX Palo Alto Lab, Inc. 
 
-1. Numbered
-2. List
+**David D. Lewis**
+is Executive Vice President for AI Research, Development, and Ethics at Reveal-Brainspace. He has researched, designed, and consulted on human-in-the-loop document classification and review systems since the early 1990's. His 1994 paper with Gale introduced uncertainty sampling, a core technique used in commercial TAR systems. This paper won an ACM SIGIR Test of Time Award in 2017.  Dave co-founded the TREC Legal Track, the first open evaluation of TAR technology. He was elected a Fellow of the American Association for the Advancement of Science in 2006 for foundational work on algorithms, data sets, and evaluation in text analytics.  
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tar-tutorial/tar-tutorial.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
