@@ -1,4 +1,4 @@
-theme: just-the-docs
+remote_theme: pmarsceill/just-the-docs
 title: TAR Tutorial at ECIR 2022
 description: Official website for the TAR Tutorial at ECIR 2022
 search_enabled: false
