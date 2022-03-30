@@ -6,6 +6,9 @@ nav_order: 1
 
 # ECIR 2022 Tutorial: Technology-Assisted Review for High Recall Retrieval
 
+!!! note
+	We are collaborating with [ALTARS Workshop](http://altars2022.dei.unipd.it/)! Join us in the morning and attend ALTARS in the afternoon to discuss more advanced topics in TAR. 
+
 {:.mt-6}
 Human-in-the-loop (HITL) IR workflows are being applied to an increasing range of tasks in the law, medicine, social media, and other areas.  These tasks differ from ad hoc retrieval in their focus on high recall, and differ from text categorization in their need for extensive human judgment. These tasks also differ from both in their industrial scale and, often, their use of teams of multiple reviewers. In the research literature, these tasks have been variously referred to as *review*, *moderation*, *annotation*, or *high recall retrieval (HRR)* tasks. Technologies applied to these tasks have also been referred to by many names, but *technology-assisted review (TAR)* has emerged as a consensus term, so these tasks are also referred to as *TAR tasks*. 
 
